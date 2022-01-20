@@ -2,7 +2,7 @@
 "_manifest" : {
     "name": "Blakhole",
     "id": "one.blakhole",
-    "version": 1,
+    "version": 2,
     "classPath": "",
     "permaUrl": "https://raw.githubusercontent.com/dyingrich/Personal-Syncler-Providers/main/blakhole-providers"
   },
