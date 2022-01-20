@@ -4,7 +4,7 @@
     "id": "one.blakhole",
     "version": 2,
     "classPath": "",
-    "permaUrl": "https://raw.githubusercontent.com/dyingrich/Personal-Syncler-Providers/main/blakhole-providers"
+    "permaUrl": "https://raw.githubusercontent.com/dyingrich/Personal-Syncler-Package/main/blakhole"
   },
   "torrentapi": {
     "name": "RARBG",
