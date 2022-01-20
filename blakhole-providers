@@ -1,10 +1,10 @@
 {
 "_manifest" : {
-    "name": "BLAKHOLE - Must",
-    "id": "blakhole.must",
+    "name": "BLAKHOLE",
+    "id": "one.blakhole",
     "version": 1,
     "classPath": "",
-    "permaUrl": "TBD"
+    "permaUrl": "https://raw.githubusercontent.com/dyingrich/Personal-Syncler-Providers/main/blakhole-providers"
   },
   "torrentapi": {
     "name": "RARBG",
