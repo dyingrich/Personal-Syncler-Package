@@ -2,10 +2,11 @@
 "_manifest" : {
     "name": "Blakhole",
     "id": "Blakhole",
-    "version": 69420,
+    "version": 69,
     "classPath": "",
     "permaUrl": "https://raw.githubusercontent.com/dyingrich/Personal-Syncler-Package/main/blakhole"
   },
+  "orion":{"name":"Orion","languages":["en"],"base_url":"https://api.orionoid.com","enabled":true,"enabled_in_list":false,"timeout_ms":90000,"trust_results":true,"trust_movie_results":true,"trust_episode_results":true,"movie":{"query":"/?token=WZLD5WFX2XDWIVV36O6DDIGS7C76WLGRBRKGW6VV22XSFMLLQM4AQ3A6WV2F4R2ZSLGPAVRIVSKTM43S4PBTTK2WJ45VLA5OXLJ3HXIHFD4GROM4P7NBEPNWPSS4YNRZ&mode=stream&action=retrieve&output=syncler&type=movie&streamtype=torrent&protocoltorrent=magnet&filename=true&fileunknown=false&limitcount=10&sortvalue=best&sortorder=descending&videoquality=sd_hd1080&video3d=false&audiochannels=2_&access=false&lookup=true&idimdb={imdbId}&query={query}","keywords":"{title}"},"episode":{"query":"/?token=WZLD5WFX2XDWIVV36O6DDIGS7C76WLGRBRKGW6VV22XSFMLLQM4AQ3A6WV2F4R2ZSLGPAVRIVSKTM43S4PBTTK2WJ45VLA5OXLJ3HXIHFD4GROM4P7NBEPNWPSS4YNRZ&mode=stream&action=retrieve&output=syncler&type=episode&streamtype=torrent&protocoltorrent=magnet&filename=true&fileunknown=false&limitcount=10&sortvalue=best&sortorder=descending&videoquality=sd_hd1080&video3d=false&audiochannels=2_&access=false&lookup=true&idimdb={showImdbId}&numberseason={season}&numberepisode={episode}&query={query}","keywords":"{title}"},"separator":"+","response_type":"json","json_format":{"results":"data.streams","url":"link","title":"name","seeds":"seeds","peers":"peers","size":"size","isPackage":"pack"}},
   "torrentapi": {
     "name": "RARBG",
     "enabled": true,
@@ -105,6 +106,5 @@
       "'": "",
       "&": ""
     }
-  },
-  "orion":{"name":"Orion","languages":["en"],"base_url":"https://api.orionoid.com","enabled":true,"enabled_in_list":false,"timeout_ms":90000,"trust_results":true,"trust_movie_results":true,"trust_episode_results":true,"movie":{"query":"/?token=WZLD5WFX2XDWIVV36O6DDIGS7C76WLGRBRKGW6VV22XSFMLLQM4AQ3A6WV2F4R2ZSLGPAVRIVSKTM43S4PBTTK2WJ45VLA5OXLJ3HXIHFD4GROM4P7NBEPNWPSS4YNRZ&mode=stream&action=retrieve&output=syncler&type=movie&streamtype=torrent&protocoltorrent=magnet&filename=true&fileunknown=false&limitcount=10&sortvalue=best&sortorder=descending&videoquality=sd_hd1080&video3d=false&audiochannels=2_&access=false&lookup=true&idimdb={imdbId}&query={query}","keywords":"{title}"},"episode":{"query":"/?token=WZLD5WFX2XDWIVV36O6DDIGS7C76WLGRBRKGW6VV22XSFMLLQM4AQ3A6WV2F4R2ZSLGPAVRIVSKTM43S4PBTTK2WJ45VLA5OXLJ3HXIHFD4GROM4P7NBEPNWPSS4YNRZ&mode=stream&action=retrieve&output=syncler&type=episode&streamtype=torrent&protocoltorrent=magnet&filename=true&fileunknown=false&limitcount=10&sortvalue=best&sortorder=descending&videoquality=sd_hd1080&video3d=false&audiochannels=2_&access=false&lookup=true&idimdb={showImdbId}&numberseason={season}&numberepisode={episode}&query={query}","keywords":"{title}"},"separator":"+","response_type":"json","json_format":{"results":"data.streams","url":"link","title":"name","seeds":"seeds","peers":"peers","size":"size","isPackage":"pack"}}
+  }
 }
