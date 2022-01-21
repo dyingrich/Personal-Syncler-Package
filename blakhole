@@ -2,7 +2,7 @@
 "_manifest" : {
     "name": "Blakhole",
     "id": "Blakhole",
-    "version": 69,
+    "version": 42069,
     "classPath": "",
     "permaUrl": "https://raw.githubusercontent.com/dyingrich/Personal-Syncler-Package/main/blakhole"
   },
@@ -119,7 +119,7 @@
     "trust_movie_results": true,
     "trust_episode_results": true,
     "movie": {
-      "query":   "/token=BTSNRLTGLJODMCMNLPYVKDZTVYCFQ4ALIVQZD733IY4QU75PQXZ4TU5AVQXFR2S3WNTQZ2NK2IAXEDEVVM4U5SVMEZ64VCKKNFKORLOFARGKX2G3KR3C535VTKKIE4SB&mode=stream&action=retrieve&output=syncler&type=movie&streamtype=torrent&protocoltorrent=magnet&filename=true&fileunknown=false&limitcount=10&sortvalue=best&sortorder=descending&videoquality=sd_hd1080&video3d=false&audiochannels=2_&access=false&lookup=true&idimdb={imdbId}&query={query}",
+      "query": "/token=BTSNRLTGLJODMCMNLPYVKDZTVYCFQ4ALIVQZD733IY4QU75PQXZ4TU5AVQXFR2S3WNTQZ2NK2IAXEDEVVM4U5SVMEZ64VCKKNFKORLOFARGKX2G3KR3C535VTKKIE4SB&mode=stream&action=retrieve&output=syncler&type=movie&streamtype=torrent&protocoltorrent=magnet&filename=true&fileunknown=false&limitcount=10&sortvalue=best&sortorder=descending&videoquality=sd_hd1080&video3d=false&audiochannels=2_&access=false&lookup=true&idimdb={imdbId}&query={query}",
       "keywords": "{title}"
     },
     "episode": { 
